@@ -8,9 +8,7 @@ The production model is the tuned HW2 Random Forest pipeline with the same order
 
 ## Live URL
 
-Render deployment URL: `https://your-render-service.onrender.com`
-
-Replace this placeholder after deploying the Dockerized API to Render.
+Render deployment URL: `https://mlops-hw4-api.onrender.com`
 
 ## Model Information
 

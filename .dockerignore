@@ -1,0 +1,10 @@
+.git
+.ipynb_checkpoints
+.tmp
+__pycache__
+*.pyc
+server.out.log
+server.err.log
+.server.pid
+mlruns
+model/mlflow_artifacts

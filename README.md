@@ -163,7 +163,7 @@ python test_api.py
 To point tests at a deployed API:
 
 ```powershell
-$env:API_BASE_URL="https://your-render-service.onrender.com"
+$env:API_BASE_URL="https://mlops-hw4-api.onrender.com"
 python test_api.py
 ```
 
